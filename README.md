@@ -61,7 +61,7 @@ INSERT INTO master_kata (kata, clue) VALUES
 ### Clone Repositori
 
 ```bash
-git clone https://github.com/username/game-tebak-kata.git
+git clone https://github.com/zvn7/game-asah-otak
 ```
 Siapkan database:
 Impor file database.sql ke database MySQL Anda menggunakan phpMyAdmin atau alat lainnya.
