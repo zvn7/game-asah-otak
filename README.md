@@ -6,7 +6,7 @@ Game Tebak Kata adalah permainan tebak kata berbasis web di mana pemain mencoba 
 
 ```bash
 ├── css/
-│   └── style.css           # Berisi gaya untuk tampilan game
+│   └── style.css           # Berisi style untuk tampilan game
 ├── includes/
 │   └── db.php              # File koneksi database
 ├── public/
@@ -21,7 +21,9 @@ Game Tebak Kata adalah permainan tebak kata berbasis web di mana pemain mencoba 
 - Backend: PHP
 - Database: MySQL
 - Alat:
+    
     XAMPP/WAMP untuk server lokal dan database
+    
     phpMyAdmin untuk manajemen database MySQL
 
 ## Database
