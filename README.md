@@ -16,16 +16,6 @@ Game Tebak Kata adalah permainan tebak kata berbasis web di mana pemain mencoba 
 │   └── exit.php            # Mengatur logout pemain dan penghancuran sesi
 ```
 
-## Teknologi
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Alat:
-    
-    XAMPP/WAMP untuk server lokal dan database
-    
-    phpMyAdmin untuk manajemen database MySQL
-
 ## Database
 
 ```bash
